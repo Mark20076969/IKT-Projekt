@@ -1,0 +1,22 @@
+Kedves olvasó!
+
+Kérjük a veboldalt csak a saját gépéről használja és csak akkor ha játszik az 
+ARK Survival Evolved játékkal.
+
+A veboldal használata:
+
+A főoldalról a dinókról szóló veboldalt és a modokról szóló veboldalt lehet elérni.
+ha a forrásokat szeretné megtekinteni akkor kattintson a "Főoldal" fülre, görgessen
+az oldal aljára és ott a források fülre kattintva megtalálja a forrásokat.
+
+Az Oldal Tartalma:
+
+"A dínókról" fülön megtalálható a játék 3 legikonikusabb dínója, a "Két Hasznos Mod"
+fülön pediig megtalálható két mod amit ajánlok letölteni a játék mellé. Továbbá az 
+oldalon megtalálhatóak a játékmenetet és a játékot leiró szövegeket.
+
+Fejlesztési ötletek:
+
+Az oldalra lehetne rakni több dínót és több modot valamint lehetne hosszabb és infor-
+málóbb leírást adni a külön elemeknek. Valamint az "A Dínókról" fülön lehetne minden 
+dínónak külön fület csinálni.
